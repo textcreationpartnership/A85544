@@ -1,0 +1,340 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A cure of deadly doctrine; which is death in the pot: or Mr. Royles light proved to be darknesse. By J.G. a lover and a member of the holy army of God, although the most unworthy.</title>
+            <author>Graunt, John, of Bucklersbury.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85544</idno>
+            <idno type="STC">Wing G1590</idno>
+            <idno type="STC">Thomason E566_26</idno>
+            <idno type="STC">ESTC R206221</idno>
+            <idno type="EEBO-CITATION">99865395</idno>
+            <idno type="PROQUEST">99865395</idno>
+            <idno type="VID">117635</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85544)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117635)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 87:E566[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A cure of deadly doctrine; which is death in the pot: or Mr. Royles light proved to be darknesse. By J.G. a lover and a member of the holy army of God, although the most unworthy.</title>
+                  <author>Graunt, John, of Bucklersbury.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by M.S. for John Hancock in Popes-head-alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: John Graunt.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Annotation on Thomason copy: "Aug: 2 1649."</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Spiritual life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:117635:1" rendition="simple:additions"/>
+            <head>A Cure of deadly Doctrine; <hi>Which is death in the Pot: OR</hi> M<hi rend="sup">r.</hi> 
+               <hi>Royles</hi> Light proved to be Darkneſſe.</head>
+            <byline>By <hi>J. G.</hi> a lover and a Member of the holy Army of God, although the moſt unworthy.</byline>
+            <opener>
+               <salute>SIR;</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Our Glimps of ſome truths, as you call it, is a myſting and darkening of the cleere light of the Scriptures; an ad<g ref="char:EOLhyphen"/>ding to and taking from the teſtimo<g ref="char:EOLhyphen"/>nies and Books of the Propheſies of God, which whoſoever doth is to bring upon him all the plagues that are written therein, and to deprive himſelfe of his part in the booke of life, and in the holy City, and of all the precious things that are written in Gods Records.</p>
+            <p>And firſt for the generall title of your Paper, it is palpably falſe, to aſcribe to your particular matters the name of truths, and to be made knowne in theſe laſt times; when as many in <hi>London</hi> know them all to be old <hi>Germane</hi> errours. The firſt publiſher wee reade of, who plainly &amp; openly profeſt them, was <hi>David George,</hi> &amp; one <hi>Henry Nicholls,</hi> ſometimes a tradeſman in <hi>Holland,</hi> who through pride fell to groſſe and ſtrange deluſions of Satan, and printed many blaſphemons tenents in divers ſmall books, knowne by ſeverall titles, <hi>As the Goſpel of the Kingdome; The Propheſie of the Spirit of love; the Pro<g ref="char:EOLhyphen"/>verbs of</hi> H. N. <hi>The glaſſe of Righteouſneſſe;</hi> and divers o<g ref="char:EOLhyphen"/>thers; many of them being lately reprinted; as, <hi>The Re<g ref="char:EOLhyphen"/>velation of God; The ſpirituall King of P<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>; and the Pro<g ref="char:EOLhyphen"/>pheſie of the Spirit of Love;</hi> in all of them ſetting forth
+<pb n="2" facs="tcp:117635:2"/>
+himſelfe to be greater then Jeſus Chriſt our Lord: ha<g ref="char:EOLhyphen"/>ving theſe expreſſions in one of his books; <hi>There is eight through breakings of the light, and each one exceeding the o<g ref="char:EOLhyphen"/>ther, and the laſt the greateſt;</hi> in which number he makes Jeſus Chriſt the ſeventh, and himſelfe the eight: and as <hi>Jeſus of Nazareth</hi> was greater then all, or any before him, ſo himſelfe <hi>H. N.</hi> to excell, in all manner of gifts and graces, our Saviour Chriſt; for he ſaith, Chriſt is no other in the Scripture then Anointing, and in that he himſelfe exceeded. And the Names alſo that are given in Scripture to Chriſt onely, by them he calls himſelfe; as, <hi>the Son of God, the holy One of Iſrael,</hi> &amp;c.</p>
+            <p>And now to your three particulars; and firſt of the firſt; how you can prove your affirmation by Scripture or reaſon, that all the offices, gifts, and ordinances gi<g ref="char:EOLhyphen"/>ven to the Apoſtles were figurative; theſe are your own words, and I ſhall keep you cloſe to them; for he that makes error his Propoſition, can make no better of his Concluſion: I confeſſe, the terme <hi>Ordinances,</hi> as you ex<g ref="char:EOLhyphen"/>pound them to be the Supper of the Lord, and Ele<g ref="char:EOLhyphen"/>ments Baptiſme, are figurative; but how you will prove the other two terms, <hi>offices</hi> and <hi>gifts</hi> figurative, it is ve<g ref="char:EOLhyphen"/>ry doubtfull to conceive; for if you meane the office of an Apoſtle, Deacon, Evangeliſt, Biſhop, Elder, Over<g ref="char:EOLhyphen"/>ſeer, or any other office mentioned in the New Teſta<g ref="char:EOLhyphen"/>ment, then how are they figurative. And by <hi>gifts,</hi> if you meane, as the Apoſtle doth, 1 <hi>Cor.</hi> 1 2. the manifold gifts of the Spirit, ſome peculiar to the Saints alone, who are ſpirituall, &amp; others common to all beleevers, although carnall; then how in either reſpect are they figurative? for in right reaſon of ordinary expreſſion, a figure can<g ref="char:EOLhyphen"/>not be the thing it ſelfe, but ſome other thing that hath in it the reſemblance of the ſubſtance it ſignifies; as in Circumciſion, the Paſſeover, the Brazen Serpent, the
+<pb facs="tcp:117635:2"/>
+Manna, the Sacrifices, the Prieſthood, the waſhing away the filth of the fleſh, and the Bread and Wine in the Lords Supper.</p>
+            <p>Againe, I require of you to ſhew in right diſtinction and ſound underſtanding, <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> what reſpect the Apoſtles gif<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:punc">▪</g> and thoſe with them that had received the gifts of <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Holy Ghoſt, deſcending on them at <hi>Jeruſalem,</hi> Acts 2. that th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe ſhould be weake in their gifts and diſpenſations, compared with thoſe after them in S<hi rend="sup">t</hi> 
+               <hi>Pauls</hi> 
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me, and now in our time<g ref="char:punc">▪</g> 
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> you ſeems to prove it by <hi>Rom.</hi> 8. 18. If you have not a new way to cleare this, the Scriptures will make it very ſoule againſt you.</p>
+            <p>Againe, where doe you read<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, that the coming of Chriſt in the fleſh, put an end to all the Ceremonies of the Law, to them of whom they were required? And how can you prove, that the promiſe of his coming againe is fulfilled, in the ſending, giving, or powring forth of his Spirit; I hope you hold the diſtinction of the perſons in the God-head, Father, Sonne, and Holy Ghoſt, neither con<g ref="char:EOLhyphen"/>founding the perſons<g ref="char:punc">▪</g> Excellencies, or Offices of either, ſo that theſe Appellations are onely proper to the Sonne, and not to the Father, or Spirit<g ref="char:punc">▪</g> 
+               <hi>Th<gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>y <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, this day have I begotten thee:</hi> Againe, <hi>The Lord hath ſworne, and wil not repent, thou art a Prieſt for ever,</hi> &amp;c. Againe, <hi>The Lord ſaid unto my Lord, ſit thou a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> my right hand,</hi> &amp;c. Againe, <hi>Whom t<gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>s muſt containe, or receive<g ref="char:punc">▪</g> till the reſtitution of all things,</hi> &amp;c. And againe<g ref="char:punc">▪</g> 
+               <hi>As you have ſee<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> him goe, ſo ſhall you ſee him come.</hi> Now obſerve, it is ſaid, <hi>he ſhall come,</hi> 
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> is no<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſaid, the Fa<g ref="char:EOLhyphen"/>ther, or the Spirit; wherefore doe you ſtraine the Text? And whereas the Lord ſaith<g ref="char:punc">▪</g> 
+               <hi>
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> will ſend the Spirit,</hi> he doth not ſay nor meant, he will ſend himſelfe; for as he hath aſſumed the humane nature, and exalted it <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Gods right hand, even ſo there he i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to a<g ref="char:EOLhyphen"/>bide and continue till the time appointed of his returne. Likewiſe other Scriptures ſpeaks properly of the Father, and not of the Son, nor Spirit; as this is properly ſpoken of the Spirit, and not of the Father, nor the Sonne; therefore vaine and incredulous is it to af<g ref="char:EOLhyphen"/>firme, that Chriſts ſending his Spirit to his Church, is his ſecond coming, or coming againe to them according to the Scriptures, <hi>Joh. 14. 2, 3. Heb. 9. 28. Matth. 16. 27. Luk.</hi> 19. 11, 12. &amp;c.</p>
+            <p>Friend, if I may call you ſo, take heed how you expound Scrip<g ref="char:EOLhyphen"/>tures; for th<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to affirme, as you have done, is to abuſe the Scrip<g ref="char:EOLhyphen"/>tures; and to force, violate, injure, wound and kill the Witneſſes of God, which whoſoever doth, ſhall periſh and be ſlaine by them,
+<pb n="4" facs="tcp:117635:3"/>
+               <hi>Rev.</hi> 11. 5. For fi<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e proceedeth out of their mouth, and devoureth, ſaith the Text ſuch enemies: The truth is, when a Chriſtian wants his principles and beginnings of Chriſt, and yet will take upon him<g ref="char:EOLhyphen"/>ſelfe to be a Teacher in Chriſtianitie; he is like the Martiner that takes upon him the office of a Pilot, and yet underſtands not the Art of Navigation; for to know the common tearmes, without the perfect skill in the myſtery, by the theorick or by the practick, the more he acts, the farther he ingages the Ship to deſtruction, not<g ref="char:EOLhyphen"/>withſtanding all his pretences to the contrary.</p>
+            <p>Sir, Blame mee not thus to charge you, for you prove your ſelfe to be the unskilfull Chriſtian, as in what is paſt, ſo in that which is to come; for you uſing the tearme <hi>Baptiſme,</hi> and not rightly di<g ref="char:EOLhyphen"/>ſtinguiſhing in the different acceptation thereof; you make that ob<g ref="char:EOLhyphen"/>ſcu<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e in your reaſonings, which otherwiſe were plaine in the holy Scriptures, comparing Scripture with Scripture; for there is a Bap<g ref="char:EOLhyphen"/>tiſme of Water in the Element, and a Baptiſme of Water in the Myſtery; and <hi>John</hi> the Baptiſt and S<hi rend="sup">t</hi> 
+               <hi>Paul</hi> with all the Apoſtles and ſervants of God were more converſant in this laſt ſignification of Water, then in the firſt; and this laſt hath differing meanings alſo; as ſometimes repentance, ſometimes remiſſion of ſinnes, and ſometimes the gifts of the Holy Ghoſt, as I have elſewhere proved largely; therefore well ſaith he that is Worthy, It is the definiti<g ref="char:EOLhyphen"/>on, not the names of things by which they are rightly knowne: and you being not skilfull to define, to diſtinguiſh, and divide be<g ref="char:EOLhyphen"/>tween things that differ, make as falſe conſtructions in the ſecond part of your Paper, as in the firſt; for although therein you have a ſeeming pretence of a Chriſtians ſpirituall death and reſurrection, which rightly underſtood, is a truth, yet the thing you ayme and drive at to reveale under theſe ſpecious pretences, is to deny the re<g ref="char:EOLhyphen"/>ſurrection of the naturall body; for theſe are your own words, <hi>I deny that to be a truth,</hi> ſpeaking of the reſurrection of the naturall body, <hi>page the ninth.</hi>
+            </p>
+            <p>To which error of the Sadduces and Familiſts, I ſay thus much, that the Scriptures affirme plainly, that <hi>the naturall body is ſowne,</hi> that is, buried in the earth; which naturall body at the reſurrecti<g ref="char:EOLhyphen"/>on ſhall be raiſed a ſpirituall body, 1 <hi>Cor. 15. 44. And if there be no reſurrection of the dead,</hi> ſaith the Apoſtle, <hi>then is Chriſt not riſen,</hi> that is, his body is not riſen, <hi>and if Chriſt be not riſen,</hi> ſaith he, <hi>then is our preaching vaine, and your faith alſo vaine,</hi> Verſ. 13, 14. Now to wave
+<pb n="5" facs="tcp:117635:3"/>
+your Allegory of Chriſts Sepulchre, as alſo of his death and reſur<g ref="char:EOLhyphen"/>rection, making it a phanſie; for although there be a ſpirituall death and reſurrection in the regenerate, daily to dye to, and ariſe from ſinne, and live to righteouſneſſe, yet there was no ſuch thing in Jeſus Chriſt, which was, and is, the King of life and righteouſ<g ref="char:EOLhyphen"/>neſſe, the Author and giver of life, the brightneſſe and glory, the expreſſe image of the Father, from all eternity, and to all eternity. And notwithſtanding the Saints ſpirituall death and reſurrection, which is in, by, and through Chriſt, <hi>Col.</hi> 2. 12. yet this doth not nullifie and take away their naturall death, nor bodily reſurrecti<g ref="char:EOLhyphen"/>on to life and perfection at the laſt day; for as the firſt is by the power and voyce of God ſpirituall in our regeneration, through the operation of God, ſo the reſurrection of our bodies out of the graves, is by the ſame power and voyce, to incorruption, life, and ſalvation, <hi>Joh.</hi> 5. 25, 26. and verſ. 28, 29.</p>
+            <p>This your allegoriz<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng Doctrine doth not onely deſtroy the Faith of ſome in particular, but it overthrows the whole Doctrine of faith it ſelfe, which was once delivered unto the Saints, and turns the true and faithfull witneſſe, who once was dead, but now is alive, and liveth for evermore, into a lye, a phanſie, or conceit, imagining another meaning then what is reall and ſubſtantiall, of his conception, birth, child-hood, full age, temptations, faſtings, preaching miracles, his being accuſed and apprehended by the <hi>Jews,</hi> his being adjudged and condemned by <hi>Pilate,</hi> his crucifixion, his death and buriall, his lying three dayes in the grave, his reſurrecti<g ref="char:EOLhyphen"/>on and aſcenſion, and now his ſitting at the right hand of the Fa<g ref="char:EOLhyphen"/>ther; to deny the literall ſenſe and ſubſtance of all theſe things, and to turne them to allegories, and other meanings, as they ſhall ſeverally imagine or phanſie, is to deny the Lord that bought them, whatſoever gloſſes and faire pretences ſoever they make.</p>
+            <p>I proceed now to the third part of your Paper, the day of Judge<g ref="char:EOLhyphen"/>ment, as you call it, what it is, and when it ſhall be: and here you ſay, you will lay open ſuch a myſtery as hath been hid from many ages, but hath ſhewed it ſelfe to you within theſe few dayes, which is as falſe as the former I condemned; for theſe depths of Satan are not of yeſterdayes birth and manifeſtation, but are ancient and of long continuance; and their Books are extant, although thoſe of your deluſion have endeavoured to buy up all they could me<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> withall heretofore, that they might have the more credit to af<g ref="char:EOLhyphen"/>firme
+<pb n="6" facs="tcp:117635:4"/>
+a lye, in calling theſe viſions of their own hearts, new Lights, as if never heard of, nor knowne before: And therefore you much miſtooke to ſpeake of your ſelfe as the onely man to be acquainted with this Revelation; for what thinke you of Doctor <hi>Everit,</hi> D. G. Maſter <hi>Dell,</hi> Maſter <hi>Saltmarſh,</hi> Maſter <hi>P<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rdig,</hi> Maſter <hi>Randall,</hi> Ma<g ref="char:EOLhyphen"/>ſter <hi>Denne,</hi> and Maſter <hi>Galtorne,</hi> and many more preachers tha<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> maintaine the ſame deluſion and miſtake with your ſelfe; beſides Lords and Ladies, and many thouſands amongſt the common people.</p>
+            <p>But to your preſent matter, you boldly affirme to your friends, as you call them, that the coming and day of Chriſt is ſpirituall; And for proofe hereof, you ſay that <hi>Eliah</hi> the Prophet, ſpoken of by <hi>Malachi,</hi> Chap. 3. 1. is that ſpirituall Appearance of Chriſt in us, and that <hi>Eliah</hi> is he that ſhall ſuddenly come to his Temple, even the Meſſenger of the Covenant, his coming being now in the Spirit, as he ſaith; and the Spirits preſence is the dreadfull day of the Lord, conſuming and burning up all fleſhly excellency in us, deſtroying the ſonne of the bond-woman, which he expounds to be creature-wiſdome and darkneſſe in us: Here's his relation of the Scripture, and his expoſition alſo.</p>
+            <p>Now how contrary he is to the truth of the Text, let all that heare, judge; for he makes <hi>Eliah,</hi> and the Meſſenger of the Gove<g ref="char:EOLhyphen"/>nant to be one and the ſame, whereas the Spirit of God ſhews the contrary, prooving thereby that M<hi rend="sup">r</hi> 
+               <hi>Royles</hi> ſpirit is a ſpirit of con<g ref="char:EOLhyphen"/>tradiction to Gods holy Spirit; for thus ſaith the Lord of truth himſelfe; <hi>If you will receive it, this is Elias that was to com<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> Matth. 1<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. Prooving it was <hi>John</hi> the Baptiſt of whom the Prophet <hi>Malachi</hi> ſpake, both of Perſon and Office, to <hi>prepare the way of the Lord,</hi> which Lord is called the <hi>Meſſenger of the Covenant;</hi> for although there be many Meſſengers, yet there is but one that can be ſaid to be the Meſſenger, who indeed is the onely Au<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hor and bringer of light and ſalvation. Now for this Impoſtor to turne the Offi<g ref="char:EOLhyphen"/>ces and Perſons of our Lord, and his forerunner <hi>John</hi> the Bap<g ref="char:EOLhyphen"/>tiſt, that great Prophet, whom none before him amongſt all the holy Prophets of God ſince the world began, exceeded in ſpiritu<g ref="char:EOLhyphen"/>all power and efficacy: I ſay, to turne this Almightie God, and this great and extraordinary ſervant, into ſpirituall appearances of a fancied conceit, is to croſſe, ruinate, and deſtroy, both the body and ſpirit, the letter and meaning of the Text of Scriptures,
+<pb n="7" facs="tcp:117635:4"/>
+and what a curſed thing it is, the Records of God declare.</p>
+            <p>But as a man d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtracted doth no ſooner paſſe one danger but preſently <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uns into another, ſo this blind Leader proceeds to far<g ref="char:EOLhyphen"/>ther error, for he falſifies the ſeventh Verſe of the 114. <hi>Pſalm,</hi> in making that an allegoricall myſt<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry, that is a plaine literall hiſto<g ref="char:EOLhyphen"/>ry, by bringing <hi>Iſrael</hi> out of <hi>Egypt</hi> through Gods wonderfull and almightie power, in dividing the great Sea, and the ſwelling Ri<g ref="char:EOLhyphen"/>ver <hi>Jord<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n,</hi> that the hi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and mountaines removed, melted<g ref="char:punc">▪</g> and fled away, the maſſi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and huge Earth trembled a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the preſence of the Lord, at the preſence of the God of <hi>Jacob.</hi> And further he ſh<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mes not to affirme contrary to the conſent of Scriptures, that before this earthly Tabernacle be put off which wee beare ab<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut u<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, when Chriſt ſaith he comes in the Spirit to reigne within u<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, then all his enemies are made his footſtoole: which notwith<g ref="char:EOLhyphen"/>ſtanding his fancy, it ſhall not be truly ſo, as faith the Prophet and Apoſtle, till the end of this world, when Chriſts Mediatorſhip ſhall be finiſhed, not <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l the Lords returne in the Clouds of Hea<g ref="char:EOLhyphen"/>ven, with ten thouſands of his Sa<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, for the Lord himſelfe ſhall deſcend from Heaven with the voyce of the Archangel, and with the Trump of God; and then, and not before, ſhall the dead in Chriſt ariſe <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the E<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rth, &amp; then ſhall the Lord execu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e judge<g ref="char:EOLhyphen"/>ment upon all ungodly ſinners, of all their h<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rd ſpeeches where<g ref="char:EOLhyphen"/>with they have ſpoken againſt him. And M<hi rend="sup">r</hi> 
+               <hi>Roylie,</hi> I ſp<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ake ſeri<g ref="char:EOLhyphen"/>riouſly to you, and deſire you would let my words take place in your heart, except you repent of this writing, which you ſeeme to glory in, you wi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l be found an enemy to Chriſt, and guil<g ref="char:EOLhyphen"/>tie of hard falſe, and evill ſpeeches againſt him; to turne all the holy hiſtory of him, his perſon, office, reigne, and kingdome, with the reality of all of them, into a deceitfull myſtery.</p>
+            <p>And thoſe reall truths of his incarnation, death, reſurrection<g ref="char:punc">▪</g> aſcenſion, and interceſſion, to turne theſe a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſo into ſaigned alle<g ref="char:EOLhyphen"/>gories of your own devifing, even imagining all things, paſt and to come, to be preſent, and to be <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d in our bodies before o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r diſſolution, all things that are written from the beginning of the world unto the end; and that wee, that is, the firſt <hi>Adam,</hi> becom<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Abel,</hi> and <hi>Enoch,</hi> and <hi>
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and <hi>Abraham,</hi> and <hi>Moſes:</hi> And ſo Chriſt the ſecond <hi>Adam,</hi> and all things of him and them, in us fulfild from his conception to his aſcenſion, to be ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t at the right hand of the Father: N<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, which is more, that his coming againe in the Clouds,
+<pb n="8" facs="tcp:117635:5"/>
+the generall reſurrection, and great day of Judgement, and the world to come, alſo that all theſe things ſhould be in this life here, and fulfild in u<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:punc">▪</g> i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a blaſphemy beyond compariſon; for in ſetting up your Idoll-phanſie, of wicked invented Allegories, never heard of, nor taught by the Word of God, for theſe inventions of you and your generation, as it doth deny the Meſſiah in the true under<g ref="char:EOLhyphen"/>ſtanding of him, and alſo it doth obſcure and exclude all the hea<g ref="char:EOLhyphen"/>venly benefit<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by him, as the cleare Doctrine of the Goſpel of re<g ref="char:EOLhyphen"/>pentance and remiſſion of ſinnes, with the hope of ſalvation, pur<g ref="char:EOLhyphen"/>chaſed by his own bloud, and to be preached in his Name; and al<g ref="char:EOLhyphen"/>ſo you ſhew your ſelfe to be wholly ignorant of the eſtate of a true Chriſtian in his ſpirituall birth and heire-ſhip, and of the hope of glory in him to be entred into, and poſſeſſed at the Reſurrection, called in Scriptures the inheritance, the purchaſed poſſeſſion and ſalvation. The more you give credit to theſe deluſions, the more impoſſible is it for you to come to ſee the truth, the ſtraight way of the Lord: for your wo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d of light and truth, as you call it, is groſſe blaſphemy againſt God, blaſpheming his Name and his Tabernacle, and them that dwell in heaven: Wherefore never write nor ſpeake any more for it; and finally, remember what is written: <hi>Add<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> tho<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> not to Gods Word, leſt he reprove thee, and thou be found a lyer,</hi> Pro. 30. 6.</p>
+            <p>And as Gods Word binds me <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſwade you from your error, ſo it doth likewiſe command mee to perſwade all my Chriſtian friends to take heed and beware of the great deceit of this dange<g ref="char:EOLhyphen"/>rous doctrine, of which there is no<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the like in the world; for in tearms it grants unto you all the ſubſtantiall truths that are; as God and man, Nature and grace, the new man and the old, thi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> lif<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and that to come, the ſpirituall reſurrection and that of the body, mor<g ref="char:EOLhyphen"/>tification and vivifica<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion, repentance and remiſſion of ſinnes, the preſent time and that hereafter, ſuffering and triumphing: which in the tryall will prove but a dreame, as it is indeed. That man is cheated with <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhadow for the ſubſtance, that dreames he hath rich and coſtly food<g ref="char:punc">▪</g> when it is nothing but a phanſie, and when he awakes he feels it to be ſo by his hunger. Now there is no chea<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e to the chea<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of the underſtanding; for a man to be cheated of his meate, he may get more for his money, if of his horſe, he may goe a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, or buy one, if of his money, he may labour for more; but that man that is cheated of his underſtanding, is wholly left without all manner of remedy, ſo is he that is cheated of the true knowledge of the way of life, and myſtery of ſalvation.</p>
+            <closer>
+               <signed>By <hi>John Graunt.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London;</hi> Printed by <hi>M. S.</hi> for <hi>John Handcock</hi> in <hi>Popes-head</hi>-alley, 1649.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
